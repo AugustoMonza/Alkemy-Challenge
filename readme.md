@@ -19,7 +19,7 @@ Challenge Data Analytics + Python
 
 5. Ejecución del programa desde la terminal:
 
-	`py main.py`
+	`py app.py`
 
 ## REALIZADO POR
 Augusto Damián Monza
